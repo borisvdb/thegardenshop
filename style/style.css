@@ -265,7 +265,7 @@ h5{
 	right: 0;
 }
 
-@media only screen and (max-width: 1080px){
+@media only screen and (max-width: 480px){
 	.header{
 		flex-direction: column;
 		align-items: center;
